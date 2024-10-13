@@ -12,7 +12,7 @@ git clone https://github.com/bandinq18/geminibotwanew
 
 - Install
 ```bash
-cd gemini-bot-wa
+cd geminibotwanew
 npm i
 ```
 
